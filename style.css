@@ -1,0 +1,11 @@
+body{
+    font-family: Arial;
+    font-size: medium;
+}
+
+#receipt{
+    background-color: darkgray;
+    width: 100px;
+    padding: 25;
+    text-align: left;
+}
